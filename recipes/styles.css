@@ -1,26 +1,40 @@
-.top,
+.main-bg {
+    background-color: #111827;
+}
+/*.top,
 .recipes-list {
 background-color: blue;
-}
+}*/
 .top {
-    color: rgb(146, 1, 1);
+    color: #e3b621;
     text-align: center;
+    font-family: 'Brush Script MT', 'Franklin Gothic Medium', sans-serif;
 }
 .recipes-list {
     font-size: 32px;
     font-weight: 700;
 }
+/*recipes*/
 .spin-art {
     color: rgb(11, 95, 11);
+}
+.spin-art-bg {
+    background-color: rgba(11, 95, 11, 0.40);
 }
 .buff {
     color: rgb(218, 123, 0);
 }
+.buff-bg {
+    background-color: rgb(218, 123, 0, 0.40);
+}
 .cfbrown {
     color: rgb(75, 43, 17);
 }
+.cfbrown-bg {
+    background-color: rgb(75, 43, 17, 0.40);
+}
 
 /* unused 
-.recipes-list {
+... {
 
 } */
