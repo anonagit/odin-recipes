@@ -11,6 +11,10 @@
     font-weight: 700;
 }
 /*recipes*/
+.food-img {
+    width: 600px;
+    height: 500px;
+}
 .spin-art {
     color: rgb(11, 95, 11);
 }
